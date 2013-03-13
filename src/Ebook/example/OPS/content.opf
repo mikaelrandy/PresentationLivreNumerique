@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="BookId">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>L'Iliade et l'Odyssée</dc:title>
+    <dc:creator opf:role="aut">Homère</dc:creator>
+    <dc:language>fr</dc:language>
+    <dc:description>version 1 : 05 juin 2004</dc:description>
+    <dc:date opf:event="creation">2011-00-26</dc:date>
+    <meta name="office:version" content="OpenOffice.org/3.2$Win32 OpenOffice.org_project/320m18$Build-9502" />
+    <meta name="office:last-modification-date" content="2011-01-26T21:39:14.26" />
+    <meta name="office:creation-date" content="2004-05-11T17:52:00" />
+    <meta name="amanuensis:generator" content="Amanuensis 1.0" />
+    <meta name="amanuensis:xhtml-creation-date" content="2011-00-26T21:39:37" />
+    <dc:identifier id="BookId">urn:uuid:8A768A9F-5559-3BAA-84E4-D39A4D249D51</dc:identifier>
+  </metadata>
+  <manifest>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
+    <item id="css1" href="style.css" media-type="text/css" />
+    <item id="img1" href="cover.jpg" media-type="image/jpeg" />
+    <item id="img2" href="100000000000013F000000131EE88A8E.jpg" media-type="image/jpeg" />
+    <item id="img9" href="100000000000012500000190F836DB7D.jpg" media-type="image/jpeg" />
+    <item id="ch1" href="cover.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch2" href="book_0000.xhtml" media-type="application/xhtml+xml" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="ch1" />
+    <itemref idref="ch2" />
+  </spine>
+  <guide>
+    <reference href="cover.xhtml" type="cover" title="Couverture" />
+  </guide>
+</package>

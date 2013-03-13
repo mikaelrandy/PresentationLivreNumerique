@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:8A768A9F-5559-3BAA-84E4-D39A4D249D51" />
+    <meta name="dtb:depth" content="1" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>L'Iliade et l'Odyssée</text>
+  </docTitle>
+  <docAuthor>
+    <text>Homère</text>
+  </docAuthor>
+  <navMap>
+    <navPoint id="Préface" playOrder="1" class="">
+      <navLabel>
+        <text>Préface</text>
+      </navLabel>
+      <content src="book_0001.xhtml" />
+    </navPoint>
+    <navPoint id="Visitez le site Internet" playOrder="2" class="">
+      <navLabel>
+        <text>Visitez le site Internet</text>
+      </navLabel>
+      <content src="book_0002.xhtml" />
+    </navPoint>
+    <navPoint id="Prélude Scène 1 : L'aède et son public" playOrder="3" class="">
+      <navLabel>
+        <text>Prélude Scène 1 : L'aède et son public</text>
+      </navLabel>
+      <content src="book_0003.xhtml" />
+    </navPoint>
+    <navPoint id="Prélude Scène 2 : L'origine de la guerre" playOrder="4" class="">
+      <navLabel>
+        <text>Prélude Scène 2 : L'origine de la guerre</text>
+      </navLabel>
+      <content src="book_0004.xhtml" />
+    </navPoint>
+    <navPoint id="L'Iliade Introduction" playOrder="5" class="">
+      <navLabel>
+        <text>L'Iliade Introduction</text>
+      </navLabel>
+      <content src="book_0005.xhtml" />
+    </navPoint>
+    <navPoint id="L'Iliade Scène 1 : La querelle" playOrder="6" class="">
+      <navLabel>
+        <text>L'Iliade Scène 1 : La querelle</text>
+      </navLabel>
+      <content src="book_0006.xhtml" />
+    </navPoint>
+    <navPoint id="L'Iliade Scène 2 : Le Songe d'Agamemnon" playOrder="7" class="">
+      <navLabel>
+        <text>L'Iliade Scène 2 : Le Songe d'Agamemnon</text>
+      </navLabel>
+      <content src="book_0007.xhtml" />
+    </navPoint>
+    <navPoint id="L'Iliade Scène 3 : Le combat singulier" playOrder="8" class="">
+      <navLabel>
+        <text>L'Iliade Scène 3 : Le combat singulier</text>
+      </navLabel>
+      <content src="book_0008.xhtml" />
+    </navPoint>
+    <navPoint id="L'Iliade Scène 4 : La flèche fatale" playOrder="9" class="">
+      <navLabel>
+        <text>L'Iliade Scène 4 : La flèche fatale</text>
+      </navLabel>
+      <content src="book_0009.xhtml" />
+    </navPoint>
+    <navPoint id="L'Iliade Scène 5 : Le vaillant Hector" playOrder="10" class="">
+      <navLabel>
+        <text>L'Iliade Scène 5 : Le vaillant Hector</text>
+      </navLabel>
+      <content src="book_0010.xhtml" />
+    </navPoint>
+    <navPoint id="L'Iliade Scène 6 : La balance du destin" playOrder="11" class="">
+      <navLabel>
+        <text>L'Iliade Scène 6 : La balance du destin</text>
+      </navLabel>
+      <content src="book_0011.xhtml" />
+    </navPoint>
+    <navPoint id="L'Iliade Scène 7 : L'ambassade à Achille" playOrder="12" class="">
+      <navLabel>
+        <text>L'Iliade Scène 7 : L'ambassade à Achille</text>
+      </navLabel>
+      <content src="book_0012.xhtml" />
+    </navPoint>
+    <navPoint id="L'Iliade Scène 8 : Le combat devant la ville" playOrder="13" class="">
+      <navLabel>
+        <text>L'Iliade Scène 8 : Le combat devant la ville</text>
+      </navLabel>
+      <content src="book_0013.xhtml" />
+    </navPoint>
+    <navPoint id="L'Iliade Scène 9 : Le combat près des vaisseaux" playOrder="14" class="">
+      <navLabel>
+        <text>L'Iliade Scène 9 : Le combat près des vaisseaux</text>
+      </navLabel>
+      <content src="book_0014.xhtml" />
+    </navPoint>
+    <navPoint id="L'Iliade Scène 10 : La mort de Patrocle" playOrder="15" class="">
+      <navLabel>
+        <text>L'Iliade Scène 10 : La mort de Patrocle</text>
+      </navLabel>
+      <content src="book_0015.xhtml" />
+    </navPoint>
+    <navPoint id="L'Iliade Scène 11 : Le désespoir d'Achille" playOrder="16" class="">
+      <navLabel>
+        <text>L'Iliade Scène 11 : Le désespoir d'Achille</text>
+      </navLabel>
+      <content src="book_0016.xhtml" />
+    </navPoint>
+    <navPoint id="L'Iliade Scène 12 : La bataille des dieux" playOrder="17" class="">
+      <navLabel>
+        <text>L'Iliade Scène 12 : La bataille des dieux</text>
+      </navLabel>
+      <content src="book_0017.xhtml" />
+    </navPoint>
+    <navPoint id="L'Iliade Scène 13 : La mort d'Hector" playOrder="18" class="">
+      <navLabel>
+        <text>L'Iliade Scène 13 : La mort d'Hector</text>
+      </navLabel>
+      <content src="book_0018.xhtml" />
+    </navPoint>
+    <navPoint id="L'Iliade Scène 14 : Le rachat d'Hector" playOrder="19" class="">
+      <navLabel>
+        <text>L'Iliade Scène 14 : Le rachat d'Hector</text>
+      </navLabel>
+      <content src="book_0019.xhtml" />
+    </navPoint>
+    <navPoint id="L'Iliade Scène 15 : La prise de la ville" playOrder="20" class="">
+      <navLabel>
+        <text>L'Iliade Scène 15 : La prise de la ville</text>
+      </navLabel>
+      <content src="book_0020.xhtml" />
+    </navPoint>
+    <navPoint id="L'Odyssée Introduction" playOrder="21" class="">
+      <navLabel>
+        <text>L'Odyssée Introduction</text>
+      </navLabel>
+      <content src="book_0021.xhtml" />
+    </navPoint>
+    <navPoint id="L'Odyssée Scène 1 : Au pays des mangeurs de lotus" playOrder="22" class="">
+      <navLabel>
+        <text>L'Odyssée Scène 1 : Au pays des mangeurs de lotus</text>
+      </navLabel>
+      <content src="book_0022.xhtml" />
+    </navPoint>
+    <navPoint id="L'Odyssée Scène 2 : Dans l'antre du Cyclope" playOrder="23" class="">
+      <navLabel>
+        <text>L'Odyssée Scène 2 : Dans l'antre du Cyclope</text>
+      </navLabel>
+      <content src="book_0023.xhtml" />
+    </navPoint>
+    <navPoint id="L'Odyssée Scène 3 : Éole, le maître des vents" playOrder="24" class="">
+      <navLabel>
+        <text>L'Odyssée Scène 3 : Éole, le maître des vents</text>
+      </navLabel>
+      <content src="book_0024.xhtml" />
+    </navPoint>
+    <navPoint id="L'Odyssée Scène 4 : Les terribles Géants" playOrder="25" class="">
+      <navLabel>
+        <text>L'Odyssée Scène 4 : Les terribles Géants</text>
+      </navLabel>
+      <content src="book_0025.xhtml" />
+    </navPoint>
+    <navPoint id="L'Odyssée Scène 5 : Circé l'enchanteresse" playOrder="26" class="">
+      <navLabel>
+        <text>L'Odyssée Scène 5 : Circé l'enchanteresse</text>
+      </navLabel>
+      <content src="book_0026.xhtml" />
+    </navPoint>
+    <navPoint id="L'Odyssée Scène 6 : Au royaume des Morts" playOrder="27" class="">
+      <navLabel>
+        <text>L'Odyssée Scène 6 : Au royaume des Morts</text>
+      </navLabel>
+      <content src="book_0027.xhtml" />
+    </navPoint>
+    <navPoint id="L'Odyssée Scène 7 : Le chant des Sirènes" playOrder="28" class="">
+      <navLabel>
+        <text>L'Odyssée Scène 7 : Le chant des Sirènes</text>
+      </navLabel>
+      <content src="book_0028.xhtml" />
+    </navPoint>
+    <navPoint id="L'Odyssée Scène 8 : Charybde et Scylla" playOrder="29" class="">
+      <navLabel>
+        <text>L'Odyssée Scène 8 : Charybde et Scylla</text>
+      </navLabel>
+      <content src="book_0029.xhtml" />
+    </navPoint>
+    <navPoint id="L'Odyssée Scène 9 : Les troupeaux du dieu Soleil" playOrder="30" class="">
+      <navLabel>
+        <text>L'Odyssée Scène 9 : Les troupeaux du dieu Soleil</text>
+      </navLabel>
+      <content src="book_0030.xhtml" />
+    </navPoint>
+    <navPoint id="L'Odyssée Scène 10 : Les projets de Télémaque" playOrder="31" class="">
+      <navLabel>
+        <text>L'Odyssée Scène 10 : Les projets de Télémaque</text>
+      </navLabel>
+      <content src="book_0032.xhtml" />
+    </navPoint>
+    <navPoint id="L'Odyssée Scène 11 : Le radeau d'Ulysse" playOrder="32" class="">
+      <navLabel>
+        <text>L'Odyssée Scène 11 : Le radeau d'Ulysse</text>
+      </navLabel>
+      <content src="book_0033.xhtml" />
+    </navPoint>
+    <navPoint id="L'Odyssée Scène 12 : Nausicaa" playOrder="33" class="">
+      <navLabel>
+        <text>L'Odyssée Scène 12 : Nausicaa</text>
+      </navLabel>
+      <content src="book_0034.xhtml" />
+    </navPoint>
+    <navPoint id="L'Odyssée Scène 13 : Le retour à Ithaque" playOrder="34" class="">
+      <navLabel>
+        <text>L'Odyssée Scène 13 : Le retour à Ithaque</text>
+      </navLabel>
+      <content src="book_0035.xhtml" />
+    </navPoint>
+    <navPoint id="L'Odyssée Scène 14 : Ulysse trouve un ami" playOrder="35" class="">
+      <navLabel>
+        <text>L'Odyssée Scène 14 : Ulysse trouve un ami</text>
+      </navLabel>
+      <content src="book_0036.xhtml" />
+    </navPoint>
+    <navPoint id="L'Odyssée Scène 15 : Télémaque reconnaît son père" playOrder="36" class="">
+      <navLabel>
+        <text>L'Odyssée Scène 15 : Télémaque reconnaît son père</text>
+      </navLabel>
+      <content src="book_0037.xhtml" />
+    </navPoint>
+    <navPoint id="L'Odyssée Scène 16 : Préparatifs de bataille" playOrder="37" class="">
+      <navLabel>
+        <text>L'Odyssée Scène 16 : Préparatifs de bataille</text>
+      </navLabel>
+      <content src="book_0038.xhtml" />
+    </navPoint>
+    <navPoint id="L'Odyssée Scène 17 : L'arc d'Ulysse" playOrder="38" class="">
+      <navLabel>
+        <text>L'Odyssée Scène 17 : L'arc d'Ulysse</text>
+      </navLabel>
+      <content src="book_0039.xhtml" />
+    </navPoint>
+    <navPoint id="L'Odyssée Scène 18 : La fin des prétendants" playOrder="39" class="">
+      <navLabel>
+        <text>L'Odyssée Scène 18 : La fin des prétendants</text>
+      </navLabel>
+      <content src="book_0040.xhtml" />
+    </navPoint>
+    <navPoint id="L'Odyssée Scène 19 : La paix" playOrder="40" class="">
+      <navLabel>
+        <text>L'Odyssée Scène 19 : La paix</text>
+      </navLabel>
+      <content src="book_0041.xhtml" />
+    </navPoint>
+    <navPoint id="À propos de cette édition électronique" playOrder="41" class="">
+      <navLabel>
+        <text>À propos de cette édition électronique</text>
+      </navLabel>
+      <content src="book_0042.xhtml" />
+    </navPoint>
+  </navMap>
+</ncx>
